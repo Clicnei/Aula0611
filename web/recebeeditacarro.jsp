@@ -14,6 +14,7 @@
     </head>
     <body>
         <h1>Carro editado</h1>
+        <h2>Carro</h2>
         <hr />
         <%
         //recebe os valores da tela HTML  
